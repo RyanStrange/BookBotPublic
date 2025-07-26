@@ -16,4 +16,4 @@ To find the correct button inputs, we manually counted the number of tabs, enter
 This process would be much more simplified with something like Selenium, which is something we discussed implementing for a refactor of our project.
 
 
-Thanks for reading, this project was one of the first times I fell in love with using software to create things, and was a huge factor in me choosing Software Engineering over Mech or Elec!
+Thanks for reading, this project was one of the first things that made me fall in love with coding, and was a huge factor in me choosing Software Engineering over Mech or Elec!
