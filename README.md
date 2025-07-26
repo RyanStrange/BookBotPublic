@@ -7,7 +7,7 @@ We have all since moved to UVic, and this script serves no purpose for us anymor
 
 The C program is intended to run 24/7 on one of our home servers, calling the appropriate script as soon as the bookings for that day become available.
 
-We had scripts for every day of the week, however only the friday script is shown here, with names, student numbers, and passwords removed.
+We had scripts for every day of the week, however only the friday script is shown here, with names, student numbers, and passwords removed. The original code is in a private repository and has not been touched since March 2023.
 
 The scripts havent been run since spring 2023, and most likely dont work anymore unless the camosun study room booking website is exactly the same as before.
 
